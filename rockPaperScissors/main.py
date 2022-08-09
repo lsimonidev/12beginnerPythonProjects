@@ -12,7 +12,5 @@ def play():
     print("you won!")
   else:
     print("you lost")
-
-
     
 play()
